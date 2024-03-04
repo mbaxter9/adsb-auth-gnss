@@ -1,0 +1,6 @@
+[submodule "galileo-osnma"]
+	path = galileo-osnma
+	url = https://github.com/daniestevez/galileo-osnma.git
+[submodule "galmon"]
+	path = galmon
+	url = https://github.com/berthubert/galmon.git
